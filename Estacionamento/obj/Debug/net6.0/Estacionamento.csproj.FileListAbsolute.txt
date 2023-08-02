@@ -1,0 +1,15 @@
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.exe
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.deps.json
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.runtimeconfig.json
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.dll
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\bin\Debug\net6.0\Estacionamento.pdb
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.AssemblyReference.cache
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.AssemblyInfo.cs
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.dll
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\refint\Estacionamento.dll
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.pdb
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\Estacionamento.genruntimeconfig.cache
+C:\Users\Guilherme Moitinho\Desktop\Estudo programa\Estacionamento\Estacionamento\obj\Debug\net6.0\ref\Estacionamento.dll
